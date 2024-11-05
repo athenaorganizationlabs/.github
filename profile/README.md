@@ -57,4 +57,4 @@ If someone is acting inappropriately or violating this Code of Conduct in any sh
 Unacceptable behaviour from any community member will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately. If a community member engages in unacceptable behaviour, JetBrains and/or community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
 ##### License and attribution
-The license is based off of The Citizen Code of Conduct is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.
+The license is based off of The Citizen Code of Conduct is distributed by Athena© Organization Labs under a Creative Commons Attribution-ShareAlike license.
