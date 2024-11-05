@@ -11,11 +11,11 @@ This organization houses many of the Open Source projects we work on and provide
 
 | Label        | Description           
 | ------------- |-------------|
-| ![Official] |Official projects are officially supported by Athena© Organization Labs. These can be products, plugins, learning materials, books, and more. They are available for all to use in accordance to the licensing terms and are fully supported by Athena© Organization Labs.|
-| ![Team] |  Team projects are created by Athena© Organization Labs employees. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the Athena© Organization Labs developer community. Team Projects are available for all to use in accordance to the licensing terms, despite not being officially supported. However, there are times that Team Projects become Official Projects.|
-| ![Incubator] | Incubator projects are official projects that are being developed by Athena© Organization Labs. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
-|![Research] | 	Research projects are official projects developed and maintained by laboratories of Athena© Organization Labs Research. These projects aim to contribute to cutting-edge scientific work and bring its discoveries into the everyday experience of our users. They are provided as is.|
-| ![Obsolete] | Obsolete projects are those that have been discontinued, superseded, or historical. |
+| [Official] |Official projects are officially supported by Athena© Organization Labs. These can be products, plugins, learning materials, books, and more. They are available for all to use in accordance to the licensing terms and are fully supported by Athena© Organization Labs.|
+| [Team] |  Team projects are created by Athena© Organization Labs employees. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the Athena© Organization Labs developer community. Team Projects are available for all to use in accordance to the licensing terms, despite not being officially supported. However, there are times that Team Projects become Official Projects.|
+| [Incubator] | Incubator projects are official projects that are being developed by Athena© Organization Labs. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
+|[Research] | 	Research projects are official projects developed and maintained by laboratories of Athena© Organization Labs Research. These projects aim to contribute to cutting-edge scientific work and bring its discoveries into the everyday experience of our users. They are provided as is.|
+| [Obsolete] | Obsolete projects are those that have been discontinued, superseded, or historical. |
 
 
  
